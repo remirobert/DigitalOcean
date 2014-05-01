@@ -6,15 +6,15 @@ Digital Ocean API for python3.4.
 Overview DigitalOcean class
 ===========================
 
-```
-- list_droplet
-- list_size
-- list_regions
-- list_images
-- list_domains
-- new_domain
-- get_percentage_event
-- new_droplet
+``` python
+- def list_droplet():
+- def list_size():
+- def list_regions():
+- def list_images():
+- def list_domains():
+- def new_domain():
+- def get_percentage_event():
+- def new_droplet(name, size_id, image_id, region_id):
 ```
 
 Overview Droplet class
