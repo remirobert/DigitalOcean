@@ -1,7 +1,7 @@
 DigitalOcean
 ============
 
-######[Digital Ocean](https://www.digitalocean.com/) API for python3.4.
+#####[Digital Ocean](https://www.digitalocean.com/) API for python3.4.
 
 Overview **DigitalOcean** class
 ===========================
