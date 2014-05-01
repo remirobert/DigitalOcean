@@ -38,6 +38,7 @@ Overview **Domain** class
 - def destroy_domain(self):
 ```
 
+
 Sample application, for reboot all droplets:
 ``` python
 import DigitalOcean
